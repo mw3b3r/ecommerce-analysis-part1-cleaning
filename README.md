@@ -67,7 +67,7 @@ python sales_transactions_cleaning.py
 
 This is **Part 1** of a multi-stage e-commerce data project.
 
-📊 In [Part 2 – Interactive Analysis in Streamlit](https://github.com/your-username/ecommerce-analysis-part2-streamlit) *(link will be added once available)*, you'll find dynamic dashboards and visual insights built using the cleaned dataset.
+📊 In [Part 2 – Interactive Analysis in Streamlit](https://github.com/mw3b3r/ecommerce-analysis-part1-cleaning), you'll find dynamic dashboards and visual insights built using the cleaned dataset.
 
 ---
 
