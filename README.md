@@ -6,13 +6,19 @@ The dataset includes anonymized sales transactions from an online store. Before 
 
 ---
 
-## 📂 Files in This Repository
+## 📂 Data Access
 
-| File | Description |
-|------|-------------|
-| `data/sales_transaction.csv` | Original raw dataset |
-| `data/cleaned_sales_data.csv` | Cleaned version of the dataset |
-| `sales_transactions_cleaning.py` | Python script used to clean the data |
+To keep the repository lightweight, the dataset is **not included directly here** due to file size limitations.
+
+Instead, you can download both the **raw** and **cleaned** versions of the dataset from this Kaggle link:
+
+🔗 [E-Commerce Sales Data (Raw & Cleaned) on Kaggle](https://www.kaggle.com/datasets/martweber/e-commerce-sales-data-raw-cleaned)
+
+### Contents:
+- `ecommerce_raw_data.csv` – Original messy dataset  
+- `cleaned_sales_data.csv` – Cleaned and processed version used in further analysis
+
+> Once downloaded, place the files in your working directory to run the cleaning script or continue with part 2 of the analysis.
 
 ---
 
